@@ -6,7 +6,7 @@
 # Allen Parrin Grabowski
 # Aidan Iao
 # Omar Hinojosa
-# Section 505
+# Section: 505
 # Assignment: 1
 # Date: 08/19/2024
 
