@@ -3,7 +3,7 @@
 # "I have not given or received any unauthorized aid on this assignment."
 #
 # Names: Rafay Bhatti
-# Shane McCollam
+# Allen Parrin Grabowski
 # Aidan Iao
 # Omar Hinojosa
 # Section: 505
